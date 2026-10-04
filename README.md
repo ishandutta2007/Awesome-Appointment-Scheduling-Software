@@ -59,7 +59,7 @@ Below is a comparison of leading commercial SaaS appointment scheduling platform
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source alternatives offer complete data ownership, privacy compliance, and self-hosted customization. Sorted below by **GitHub Stars_Count** (descending).
+Open-source alternatives offer complete data ownership, privacy compliance, and self-hosted customization. Sorted below by **GitHub_Stars_Count** (descending).
 
 ### Full-Featured Platforms
 
