@@ -59,43 +59,43 @@ Below is a comparison of leading commercial SaaS appointment scheduling platform
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source alternatives offer complete data ownership, privacy compliance, and self-hosted customization. Sorted below by **GitHub Star Count** (descending).
+Open-source alternatives offer complete data ownership, privacy compliance, and self-hosted customization. Sorted below by **GitHub Stars_Count** (descending).
 
 ### Full-Featured Platforms
 
-- **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
+- **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub_Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
   - **License**: AGPL-3.0
   - **Description**: The flagship open-source Calendly alternative. Features multi-calendar sync (Google, Outlook, CalDAV, Apple), team round-robin routing, Stripe payment workflows, webhooks, and REST APIs. Node.js + PostgreSQL stack.
 
-- **[Easy!Appointments](https://github.alextselegidis/easyappointments)** [![GitHub Stars](https://img.shields.io/github/stars/alextselegidis/easyappointments?style=social&color=white)](https://github.com/alextselegidis/easyappointments/stargazers)
+- **[Easy!Appointments](https://github.alextselegidis/easyappointments)** [![GitHub_Stars](https://img.shields.io/github/stars/alextselegidis/easyappointments?style=social&color=white)](https://github.com/alextselegidis/easyappointments/stargazers)
   - **License**: GPL-3.0
   - **Description**: Ultra-lightweight self-hosted appointment scheduler for service providers (clinics, salons, consultancies). Runs on PHP + MySQL in two Docker containers on a 1 GB VPS. Supports Google Calendar bidirectional sync.
 
 ### Group Polling & Coordination
 
-- **[Rallly](https://github.com/lukevella/rallly)** [![GitHub Stars](https://img.shields.io/github/stars/lukevella/rallly?style=social&color=white)](https://github.com/lukevella/rallly/stargazers)
+- **[Rallly](https://github.com/lukevella/rallly)** [![GitHub_Stars](https://img.shields.io/github/stars/lukevella/rallly?style=social&color=white)](https://github.com/lukevella/rallly/stargazers)
   - **License**: AGPL-3.0
   - **Description**: Open-source Doodle alternative for group scheduling polls. Voters do not need accounts. Includes guest comments and consensus voting. Node.js + PostgreSQL + Traefik stack.
 
 ### Niche & Resource Scheduling
 
-- **[LibreBooking](https://github.com/LibreBooking/app)** [![GitHub Stars](https://img.shields.io/github/stars/LibreBooking/app?style=social&color=white)](https://github.com/LibreBooking/app/stargazers)
+- **[LibreBooking](https://github.com/LibreBooking/app)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreBooking/app?style=social&color=white)](https://github.com/LibreBooking/app/stargazers)
   - **License**: GPL-3.0
   - **Description**: Open-source reservation system for managing shared resources (conference rooms, equipment, lab spaces, vehicles).
 
-- **[Alf.io](https://github.com/alfio-event/alf.io)** [![GitHub Stars](https://img.shields.io/github/stars/alfio-event/alf.io?style=social&color=white)](https://github.com/alfio-event/alf.io/stargazers)
+- **[Alf.io](https://github.com/alfio-event/alf.io)** [![GitHub_Stars](https://img.shields.io/github/stars/alfio-event/alf.io?style=social&color=white)](https://github.com/alfio-event/alf.io/stargazers)
   - **License**: GPL-3.0
   - **Description**: Open-source event attendance, ticket reservation, and badge printing system designed for tech conferences and workshops.
 
-- **[Hi.Events](https://github.com/hi-events/hi-events)** [![GitHub Stars](https://img.shields.io/github/stars/hi-events/hi-events?style=social&color=white)](https://github.com/hi-events/hi-events/stargazers)
+- **[Hi.Events](https://github.com/hi-events/hi-events)** [![GitHub_Stars](https://img.shields.io/github/stars/hi-events/hi-events?style=social&color=white)](https://github.com/hi-events/hi-events/stargazers)
   - **License**: AGPL-3.0
   - **Description**: Modern open-source event management and ticketing platform built with Laravel and React. Great alternative to Eventbrite.
 
-- **[Nextcloud Appointments](https://github.com/SergeMonterde/appointments)** [![GitHub Stars](https://img.shields.io/github/stars/SergeMonterde/appointments?style=social&color=white)](https://github.com/SergeMonterde/appointments/stargazers)
+- **[Nextcloud Appointments](https://github.com/SergeMonterde/appointments)** [![GitHub_Stars](https://img.shields.io/github/stars/SergeMonterde/appointments?style=social&color=white)](https://github.com/SergeMonterde/appointments/stargazers)
   - **License**: AGPL-3.0
   - **Description**: Native appointment booking app for Nextcloud, integrating directly with Nextcloud Calendar and user accounts.
 
-- **[Zammad](https://github.com/zammad/zammad)** [![GitHub Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
+- **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
   - **License**: AGPL-3.0
   - **Description**: Open-source customer support and helpdesk system featuring integrated calendar scheduling and appointment tracking.
 
