@@ -54,6 +54,7 @@ Below is a comparison of leading commercial SaaS appointment scheduling platform
 | **[Doodle](https://doodle.com/)** | **~$25 Million** (Estimated Valuation) | $6.95 / user / month (Pro Plan) | Free Plan (Group polls with ads, limited customization) | The pioneer in group scheduling polls to find consensus meeting times. |
 | **[SimplyBook.me](https://simplybook.me/)** | **~$20 Million** (Estimated Valuation) | $9.90 / month (Basic Plan) | Free Plan (Up to 50 bookings/month, 1 provider, 1 custom feature) | Comprehensive booking website builder for service businesses with POS options. |
 | **[Appointlet](https://www.appointlet.com/)** | **~$10 Million** (Estimated Valuation) | $8.00 / user / month (Premium Plan) | Free Plan (Unlimited event types & bookings, Appointlet branding) | Sales-focused scheduling tool with Salesforce, Zapier, and Slack integrations. |
+| **[Genaya](https://genaya.com/)** | Early-stage, private | $99.00 / month (per organization, Individual plan) | 14-day Free Trial | Scheduling for service businesses: public booking pages with optional deposits, an AI receptionist that answers calls, texts and chats and books appointments, reminder calls, plus CRM, invoices and payments in one app. |
 
 ---
 
